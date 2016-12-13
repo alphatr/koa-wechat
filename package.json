@@ -1,0 +1,20 @@
+{
+  "name": "@alphatr/koa-wechat",
+  "version": "1.0.0",
+  "description": "wechat middleware for koa 2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "AlphaTr",
+    "email": "alphatr@alphatr.com"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^2.5.5",
+    "raw-body": "^2.1.7",
+    "wechat-crypto": "0.0.2",
+    "xml2js": "^0.4.17"
+  }
+}
